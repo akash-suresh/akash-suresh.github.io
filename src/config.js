@@ -2,7 +2,7 @@ module.exports = {
   siteTitle: 'Akash Suresh | Software Engineer',
   siteDescription:
     'Akash Suresh is a software engineer based in Bangalore who specializes in building distributed systems, applications, and everything in between.',
-  siteKeywords: 'Akash Sures, Akash, Suresh, akash-suresh, software engineer, back-end engineer',
+  siteKeywords: 'Akash Suresh, Akash, Suresh, akash-suresh, software engineer, back-end engineer',
   siteUrl: 'https://brittanychiang.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
