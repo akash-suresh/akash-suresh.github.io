@@ -72,6 +72,7 @@ export const pageQuery = graphql`
             title
             company
             location
+            navbar
             range
             url
           }
