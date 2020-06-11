@@ -42,7 +42,7 @@ const PostTemplate = ({ data, location }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>{title} | Brittany Chiang</title>
+        <title>{title} | Akash Suresh</title>
         <link rel="canonical" href="https://brittanychiang.com/pensieve" />
       </Helmet>
 

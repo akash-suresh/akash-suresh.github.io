@@ -2,15 +2,15 @@
 title: 'About Me'
 avatar: './me.jpg'
 skills:
-  - JavaScript (ES6+)
-  - HTML & (S)CSS
-  - React
-  - Vue
-  - Node.js
-  - WordPress
+  - Java
+  - Python
+  - MySQL
+  - RabbitMQ
+  - Redis
+  - React.js
 ---
 
-Hello! I'm Brittany, a software engineer based in Boston, MA.
+Hello! I'm Akash, a software engineer based in Bangalore.
 
 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between. My goal is to always build products that provide pixel-perfect, performant experiences.
 
