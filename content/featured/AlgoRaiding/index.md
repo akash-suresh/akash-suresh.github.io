@@ -1,5 +1,5 @@
 ---
-date: '4'
+date: '2'
 title: 'AlgoRaiding'
 cover: './renko.png'
 github: 'https://github.com/akash-suresh/algo-raiding'
