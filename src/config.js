@@ -22,10 +22,6 @@ module.exports = {
       url: 'https://www.linkedin.com/in/akash-suresh',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
-    },
-    {
       name: 'Instagram',
       url: 'https://www.instagram.com/mydadpaysformytravels',
     },
