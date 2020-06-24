@@ -9,4 +9,4 @@ url: 'https://www.iisc.ac.in/'
 ---
 
 - Interned under the guidance of Prof. Y Narahari, Chairman, Dept of Computer Science & Automation at Indian Institute of Science (IISc).
-- Worked on simulating Vickrey auctions on social networks using Python. The project focused on mechanism design on underlying social network structures with the aim of creating auctions which satisfy desired game theoretic requirements.
+- Worked on studying the effect of introducing a referral bonus in a crowdsource web-based auction system. Worked on running simulations of Vickrey Autctions on underlying social networks to understand the cause and effect of various parameters correlating to the success of the auction.

@@ -11,4 +11,4 @@ tech:
 showInProjects: true
 ---
 
-Developed a algorithmic trading script, which leverages the volatility of the stock market to make trades automatically, to make marginal profits and minimize loss using Renko charts in Python.
+Developed a algorithmic trading script, which leverages the volatility of the stock market to make trades automatically, to make marginal profits and minimize loss using Renko charts.
