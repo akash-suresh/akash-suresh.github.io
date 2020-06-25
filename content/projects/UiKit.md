@@ -2,7 +2,7 @@
 date: '2019-02-01'
 title: 'UI Kit'
 github: ''
-external: 'https://www.myntra.com'
+external: ''
 tech:
   - React.js
 company: 'Myntra'

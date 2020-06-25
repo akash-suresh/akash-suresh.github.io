@@ -6,7 +6,7 @@ external: ''
 tech:
   - Python
 company: 'NITK'
-showInProjects: true
+showInProjects: false
 ---
 
 Mining data from ESPN APIs and Twitter to come up with a novel way to analyze the transfer rumours based on squad dynamics, financial conditions, market information to predict the probability of a certain transfer.

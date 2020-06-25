@@ -6,7 +6,7 @@ external: ''
 tech:
   - Python
 company: 'NITK'
-showInProjects: true
+showInProjects: false
 ---
 
 A car racing game Torcs was simulated using Ultrasonic sensors and ADXL accelerometer. The serial communication between the Arduino and the game was done using the pySerial and pyautogui libraries in python.

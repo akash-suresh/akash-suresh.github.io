@@ -2,7 +2,7 @@
 date: '2020-06-01'
 title: 'Myntra Financial Planner'
 github: ''
-external: 'https://www.myntra.com'
+external: ''
 tech:
   - Java
   - MySQL

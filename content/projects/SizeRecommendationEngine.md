@@ -2,7 +2,7 @@
 date: '2016-07-01'
 title: 'Size Recommendation Engine'
 github: ''
-external: 'https://www.myntra.com'
+external: ''
 tech:
   - Python
 company: 'Myntra'

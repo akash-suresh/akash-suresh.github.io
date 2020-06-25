@@ -2,7 +2,7 @@
 date: '2019-03-01'
 title: 'Replenishment Planner'
 github: ''
-external: 'https://www.myntra.com'
+external: ''
 tech:
   - Java
   - MySQL

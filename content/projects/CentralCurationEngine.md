@@ -2,7 +2,7 @@
 date: '2018-03-01'
 title: 'Central Curation Engine'
 github: ''
-external: 'https://www.myntra.com'
+external: ''
 tech:
   - Java
   - MySQL

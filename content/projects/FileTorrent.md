@@ -9,4 +9,4 @@ company: 'NITK'
 showInProjects: true
 ---
 
-Developed an offline peer to peer networking soft- ware allowing users to share files through the network using overlay networks and multi-cast sockets in Java.
+Developed an offline peer to peer networking software allowing users to share files through the network using overlay networks and multi-cast sockets in Java.

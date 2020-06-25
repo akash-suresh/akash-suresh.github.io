@@ -7,7 +7,7 @@ tech:
   - Python
   - Visenze
 company: 'Myntra'
-showInProjects: true
+showInProjects: false
 ---
 
 Did a POC to build a model, which automatically grades new fashion styles based on Image Similarity and historical sales data. The project was developed using Python and Visenze API.
