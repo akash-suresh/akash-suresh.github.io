@@ -2,11 +2,12 @@ module.exports = {
   siteTitle: 'Akash Suresh | Software Engineer',
   siteDescription:
     'Akash Suresh is a software engineer based in Bangalore who specializes in building distributed systems, applications, and everything in between.',
-  siteKeywords: 'Akash Suresh, Akash, Suresh, akash-suresh, software engineer, back-end engineer',
+  siteKeywords:
+    'Akash Suresh, Akash, Suresh, akash-suresh, software engineer, back-end engineer, myntra, nitk',
   siteUrl: 'https://akash-suresh.github.io',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-45666519-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
+  googleAnalyticsID: 'todo',
+  googleVerification: 'todo',
   name: 'Akash Suresh',
   location: 'Bangalore, India',
   email: 'akashsuresh36@gmail.com',
