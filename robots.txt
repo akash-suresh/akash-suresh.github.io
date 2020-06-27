@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://akash-suresh.github.io/sitemap.xml
+Host: https://akash-suresh.github.io
