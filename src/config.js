@@ -3,7 +3,7 @@ module.exports = {
   siteDescription:
     'Akash Suresh is a software engineer based in Bangalore who specializes in building distributed systems, applications, and everything in between.',
   siteKeywords: 'Akash Suresh, Akash, Suresh, akash-suresh, software engineer, back-end engineer',
-  siteUrl: 'https://akash-suresh.github.io/v4',
+  siteUrl: 'https://akash-suresh.github.io',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
