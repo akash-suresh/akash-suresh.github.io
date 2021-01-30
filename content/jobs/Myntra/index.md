@@ -4,7 +4,7 @@ title: 'Senior Software Engineer'
 company: 'Myntra'
 location: 'Bangalore, India'
 navbar: 'Myntra'
-range: 'July 2017 - Present'
+range: 'July 2017 - July 2020'
 url: 'https://www.myntra.com/'
 ---
 
